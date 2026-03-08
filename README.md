@@ -30,7 +30,9 @@ The project uses two datasets:
 2. **noc_region.csv**
    - Mapping between NOC codes and countries
 
-3. **Source** - https://mavenanalytics.io/data-playground/120-years-of-olympic-history
+3. **Sources**
+   - https://mavenanalytics.io/data-playground/120-years-of-olympic-history
+   - https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
 ---
 
 ## 🧹 Data Processing
@@ -93,16 +95,6 @@ Users can filter data using slicers:
 - Data Modeling
 - Basic DAX
 - Data Visualization
-
----
-
-## 📷 Dashboard Preview
-
-### Overview
-![Dashboard](dashboard_overview.png)
-
-### Analysis Page
-![Analysis](dashboard_analysis.png)
 
 ---
 
